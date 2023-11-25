@@ -14,5 +14,6 @@ public class Clase1ED {
 	
 		Clase2ED clase2 = new Clase2ED();
 		clase2.saludar("DCG");
+		String nombre = "DCG";
 	}
 }
