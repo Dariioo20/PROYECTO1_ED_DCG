@@ -8,6 +8,8 @@ package ieselcanaveral.daw1.ed.DCG;
 *	Fecha: 1 nov 2023
   */
 
+
+//AÑADIMOS COMENTARIO EN LA CLASE CON EL METODO MAIN PARA AHORA REALIZAR UN PUSH
 public class Clase1ED {
 
 	public static void main(String[] args) {
